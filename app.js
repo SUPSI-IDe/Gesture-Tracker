@@ -1,4 +1,4 @@
-const VIDEO_BASE_PATH = "../optimized/";
+const VIDEO_BASE_PATH = "optimized/";
 const VIDEO_LIST = [
   "tracking_.0.mp4",
   "tracking_.1.mp4",
